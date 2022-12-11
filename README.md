@@ -1,0 +1,2 @@
+# pepechain-testnet
+PepeChain testnet
